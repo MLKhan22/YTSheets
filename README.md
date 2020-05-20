@@ -12,9 +12,14 @@ Sample:
 
 ======================================================================================
 
--Currently in beta
--Goals:
+Currently in beta
+
+Goals:
+
   -Identify section of screen that contains the keyboard without mouse presses
+  
   -Distinguish between different lengths of notes
+  
   -Distinguish between right and left hand
+  
   -Better method of gathering more data
